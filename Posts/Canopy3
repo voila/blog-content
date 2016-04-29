@@ -3,9 +3,9 @@ title: Canopy3 - A git-blogging unikernel
 author: Engil
 ---
 
-# Canopy3.3 - A git-blogging unikernel 🌿
+# Canopy3 - A git-blogging unikernel 🌿
 
-That is Canopy3.2, an attempt at writting a blog-engine based on Git using [MirageOS][mirage].
+That is Canopy3, an attempt at writting a blog-engine based on Git using [MirageOS][mirage].
 
 The goal is to provide a simple blog platform that requires only a few modifications in a configuration file and a Git repository respecting some architecture rules.
 
