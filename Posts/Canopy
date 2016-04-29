@@ -1,9 +1,9 @@
 ---
-title: Canopy - A git-blogging unikernel
+title: Canopy1 - A git-blogging unikernel
 author: Engil
 ---
 
-# Canopy - A git-blogging unikernel 🌿
+# Canopy1 - A git-blogging unikernel 🌿
 
 That is Canopy, an attempt at writting a blog-engine based on Git using [MirageOS][mirage].
 
